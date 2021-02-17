@@ -1,6 +1,10 @@
 # SKULL-MAZE
 Skull world filled with mazes and rails. Uploading.
 
+***
+![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.08.08.jpg)
+***
+
 Edit of SKULL.
 
 Filled with mazes + over 60000 kilometers of rails.
@@ -138,8 +142,6 @@ Can be fixed for commercial edit...
 ![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.04.48.jpg)
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.06.30.jpg)
-***
-![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.08.08.jpg)
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.09.28.jpg)
 ***
