@@ -1,5 +1,5 @@
 # SKULL-MAZE
-Skull world filled with mazes and rails. Uploading sample first then the rest.
+Skull world filled with mazes and rails. Uploading.
 
 Edit of SKULL.
 
