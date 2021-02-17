@@ -1,6 +1,12 @@
 # SKULL-MAZE
-Skull world filled with mazes and rails
+Skull world filled with mazes and rails. Uploading sample first then the rest.
 
+Edit of SKULL.
+Filled with mazes + over 60000 kilometers of rails.
+Some rails are broken / not connected because i forgot to enable small piece of code that removes one block sticking out.
+Can be fixed for commercial edit...
+612 region files. Mazes added one by one, by reading region files, adding maze, writing, witch takes few hours for 612 region files. 
+(Could also be done in one run, but then had to adapt code).
 
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_11.39.27.jpg)
