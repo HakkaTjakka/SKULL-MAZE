@@ -2,7 +2,8 @@
 Skull world filled with mazes and rails. Uploading.
 
 ***
-![clipboard_small](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.08.08.jpg)
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL/blob/main/screenshots_adding_mazes/2021-02-16_22.08.08.jpg)](https://www.youtube.com/embed/rjsv4qTO3lA)
+(Click to play vid)
 ***
 
 Edit of SKULL.
