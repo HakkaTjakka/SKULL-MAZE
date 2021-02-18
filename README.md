@@ -12,6 +12,11 @@ Filled with mazes + over 60000 kilometers of rails.
 
 Some rails are broken / not connected because i forgot to enable small piece of code that removes one block sticking out.
 
+***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled.jpg)](https://www.youtube.com/embed/8jl674SNAYU)
+(Click to play vid)
+***
+
 You can fix it yourself.
 
 Can be fixed for commercial edit...
