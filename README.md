@@ -2,6 +2,11 @@
 
 New upload in progress (rails better connect, still not perfect, working on it)
 
+***
+[![Demo CountPages alpha](https://i9.ytimg.com/vi/kZdHKupa5AM/mq3.jpg?sqp=CLzq5YEG&rs=AOn4CLAV3UTNzD-u8wJOuGWjQpzjifb1Mg)](https://www.youtube.com/embed/kZdHKupa5AM)
+(Click to play vid)
+***
+
 Skull world filled with mazes and rails. Uploading.
 https://www.youtube.com/watch?v=tLXDj6t2rl0
 ***
