@@ -41,7 +41,8 @@ fill ~ ~-1 ~ ~ ~-1 ~ repeating_command_block 0 keep {Command:"/function exxabite
 
 #fill ~ ~-25 ~ ~ ~-25 ~ repeating_command_block 0 keep {Command:"/function exxabite:glass",auto:1b}
 
-setblock ~ ~ ~ stained_glass 15
+#setblock ~ ~ ~ stained_glass 15
+setblock ~ ~ ~ concrete 15
 
 #setblock ~ ~ ~ quartz_block
 #setblock ~ ~ ~ water
