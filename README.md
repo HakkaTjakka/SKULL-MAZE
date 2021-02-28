@@ -1,6 +1,7 @@
 # SKULL-MAZE
 
 New upload in progress (rails better connect, still not perfect, working on it)
+Getting the rails connected perfect is not that easy for me. But now it seems ok. New edit is on the way. I will overwrite the current with the new one.
 
 ***
 [![Demo CountPages alpha](https://i9.ytimg.com/vi/kZdHKupa5AM/mq3.jpg?sqp=CLzq5YEG&rs=AOn4CLAV3UTNzD-u8wJOuGWjQpzjifb1Mg)](https://www.youtube.com/embed/kZdHKupa5AM)
