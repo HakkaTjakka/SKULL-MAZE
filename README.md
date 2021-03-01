@@ -1,5 +1,7 @@
 # SKULL-MAZE
 
+228 new region files on the way...
+
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled3.jpg)](https://www.youtube.com/embed/cKqRabtL48E)
 (Click to play vid)
