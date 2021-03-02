@@ -1,6 +1,6 @@
 # SKULL-MAZE
 
-505 new region files already uploaded or on the way, while last ones being created. Total upload will be ready today. Check upload dates on region files. (Last 24 hours).
+New upload finished.
 
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled3.jpg)](https://www.youtube.com/embed/cKqRabtL48E)
@@ -13,10 +13,11 @@ Getting the rails connected perfect is not that easy for me. But now it seems ok
 Still not getting the light in dark areas correct when playing on 1.12.2. 
 But if you set like: gamma:10.0 in file %appdata%\.minecraft\options.txt there are no dark area's....
 In higher than 1.12.2 versions it works ok. Dunno why they don't fix it, and why there is no mod or fixer for it. Might something to do with the heigtmap in the .mca files....
+
 (https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/3064264-nbt-lightning-1-12-2-java)
 
 ***
-[![Demo CountPages alpha](https://i9.ytimg.com/vi/kZdHKupa5AM/mq3.jpg?sqp=CLzq5YEG&rs=AOn4CLAV3UTNzD-u8wJOuGWjQpzjifb1Mg)](https://www.youtube.com/embed/kZdHKupa5AM)
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled2.jpg)](https://www.youtube.com/embed/kZdHKupa5AM)
 (Click to play vid)
 ***
 
