@@ -1,6 +1,6 @@
 # SKULL-MAZE
 
-505 new region files already uploaded or on the way, while last ones being created. Total upload will be ready today. Check upload dates on region files. (Last 24 hours).
+New upload finished.
 
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled3.jpg)](https://www.youtube.com/embed/cKqRabtL48E)
