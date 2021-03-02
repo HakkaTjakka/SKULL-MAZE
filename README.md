@@ -17,7 +17,7 @@ In higher than 1.12.2 versions it works ok. Dunno why they don't fix it, and why
 (https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/3064264-nbt-lightning-1-12-2-java)
 
 ***
-[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled2.jpg)](https://www.youtube.com/embed/kZdHKupa5AM)
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/SCREENSHOTS/Untitled4.jpg)](https://www.youtube.com/embed/kZdHKupa5AM)
 (Click to play vid)
 ***
 
