@@ -7,6 +7,11 @@ New upload finished.
 (Click to play vid)
 ***
 
+***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/SKULL-MAZE/blob/main/Untitled.jpg)](https://www.youtube.com/embed/XRdYDZI2BEw)
+(Click to play vid)
+***
+
 New upload in progress (rails better connect, still not perfect, working on it)
 Getting the rails connected perfect is not that easy for me. But now it seems ok. New edit is on the way. I will overwrite the current with the new one.
 
